@@ -32,13 +32,13 @@ http://www.whois.com/whois website to get detailed information about a domain na
 
 ## Finding IP address:
 ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of facebook.com.
-##output
+## output
 
-
+![Alt text](img/1.png)
 
 ## Finding Hosting Company
 get further detail by using ip2location.com website.
-##output
+## output
 
 
 
@@ -54,39 +54,47 @@ sudo nc example.com 80
 GET / HTTP/1.1
 Host: example.com
 
+### output
 
+![Alt text](img/2.png)
 
 ## nmap:
-###output
+### output
 
+![Alt text](img/3.png)
 
 ## Whatweb
 ### output
 
+![Alt text](img/4.png)
+![Alt text](img/5.png)
+![Alt text](img/6.png)
 
 ## httprint
 ### output
 
+![Alt text](img/7.png)
 
-
+![Alt text](img/8.png)
 
 # Tracing the Location
 TCP Traceroute:
 sudo traceroute -T www.google.com
 ## output
 
+![Alt text](img/9.png)
 
 ## UDP Traceroute:
 sudo traceroute -U www.google.com
 ## output
 
-
+![Alt text](img/10.png)
 
 ## ICMP Traceroute:
 sudo traceroute  www.google.com
 ## output
 
-
+![Alt text](img/11.png)
 
 
 

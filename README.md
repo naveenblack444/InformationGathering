@@ -34,14 +34,15 @@ http://www.whois.com/whois website to get detailed information about a domain na
 
 ## Finding IP address:
 ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of facebook.com.
-##output
+## output
 
 
 
 ## Finding Hosting Company
 get further detail by using ip2location.com website.
-##output
+## output
 
+<img width="1544" height="774" alt="image" src="https://github.com/user-attachments/assets/a32483eb-d480-4591-bd21-831feb458ba7" />
 
 
 ## History of the website:

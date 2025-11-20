@@ -29,6 +29,8 @@ http://www.whois.com/whois website to get detailed information about a domain na
 
 ## OUTPUT:
 
+<img width="1220" height="630" alt="image" src="https://github.com/user-attachments/assets/b32912dc-b8d5-4d9f-a957-dca73707aec7" />
+
 
 ## Finding IP address:
 ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of facebook.com.

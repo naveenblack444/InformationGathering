@@ -49,6 +49,8 @@ get further detail by using ip2location.com website.
 ## output
 https://web.archive.org/
 
+<img width="1249" height="563" alt="image" src="https://github.com/user-attachments/assets/c14c5aed-047e-4f80-9c82-e26b12eb5407" />
+
 
 # Webserver Fingerprinting:
 
